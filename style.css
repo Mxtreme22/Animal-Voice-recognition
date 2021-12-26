@@ -1,0 +1,26 @@
+body
+{
+background-image: linear-gradient(to right top, #ecf01d, #46f323, #25ece2, #69f133,#ffee00);
+}
+.copy_right_footer {
+    position: fixed;
+    color: rgb(124, 118, 118);
+    bottom: 0;
+    width:100%;
+    font-size: 18px;
+    background-color: honeydew;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px grey;
+}
+
+
+.header_div{
+    font-family: 'Estonia', cursive;
+font-size: 30px;
+
+}
+
+h2{
+    font-size: 40px;
+}
